@@ -33,3 +33,9 @@ Working....
 
 ### Running the code
 Working....
+
+#### For Community Users
+The domain should be replaced by the same URL address shown on "All Communities" page on Salesforce Setup.
+For example: https://<Community My Domain>.force.com/<Community Subdomain>
+
+Platform users should use https://login.salesforce.com for Production/Developer or https://test.salesforce.com for sandboxes. My Domain could be used to replace "login" and "test" names. 
