@@ -1,6 +1,6 @@
 # salesforce-jwt-bearer
 A simple implementation of a OAuth 2.0 JWT Bearer Token Flow for Salesforce
-This code is based on Justin Johnson (booleangate) tutorial.
+This code is based on Justin Johnson (booleangate) tutorial available at https://gist.github.com/booleangate/30d345ecf0617db0ea19c54c7a44d06f
 
 ## Requirements
 
