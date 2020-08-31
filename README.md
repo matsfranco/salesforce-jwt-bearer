@@ -1,2 +1,35 @@
 # salesforce-jwt-bearer
 A simple implementation of a OAuth 2.0 JWT Bearer Token Flow for Salesforce
+This code is based on Justin Johnson (booleangate) tutorial.
+
+## Requirements
+
+### Install PyJWT Module
+$ pip install PyJWT
+
+Documentation: https://pyjwt.readthedocs.io/en/latest/
+
+Note: Some conflicts could happen if you have the JWT module installed. You can use the following commands to uninstall JWT and grant that the PyJWT is installed correctly
+
+$ pip uninstall JWT
+$ pip uninstall PyJWT
+$ pip install PyJWT
+
+### Install Requests Module
+$ pip install requests
+
+Documentation: https://pypi.org/project/requests/
+
+### Install OpenSSL
+Working....
+
+## Instructions
+
+### Generate SSL Certificate using OpenSSL
+Working....
+
+### Creating the Connected App
+Working....
+
+### Running the code
+Working....
